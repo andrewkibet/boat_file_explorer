@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4ECCA3</color>
+    <color name="colorPrimaryDark">#4ECCA3</color>
+    <color name="colorAccent">#393E46</color>
+    <color name="colorBackgroundApp">#EEEEEE</color>
+    <color name="colorCardsBackground">#DEDEDE</color>
+    <color name="colorBottonMenuItens">#000000</color>
+
+    <color name="colorBottonMenuDisabled">#A09F9F</color>
+
+</resources>

@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Boat</string>
+
+    <!-- GENERAL -->
+    <string name="general_01">Name..</string>
+    <string name="general_02">CREATE</string>
+    <string name="general_03">CANCEL</string>
+    <string name="general_04">CLOSE</string>
+    <string name="general_05">DELETE</string>
+    <string name="general_06">COPY</string>
+    <string name="general_07">ERROR</string>
+    <string name="general_08">CUT OUT</string>
+
+    <!-- EXPLORER ACTIVITY -->
+    <string name="act_ex_snack_nosupported">Not supported!</string>
+    <string name="act_ex_deletediag_part1">You are about to delete</string>
+    <string name="act_ex_deletediag_part2">files/folders on your device. Do you want to delete?</string>
+    <string name="act_ex_search_hint">Search for folders, files..</string>
+    <string name="act_ex_copy_part1">You will copy</string>
+    <string name="act_ex_copy_part2">items.</string>
+    <string name="act_ex_cutout_part1">You will cut</string>
+
+    <!-- CLASS ITENSADAPTADOR -->
+    <string name="class_itensadaptador_items">Items</string>
+
+    <!-- DIALOGS CLASS -->
+    <string name="class_dialogs_create_success">Created successfully!</string>
+    <string name="class_dialogs_create_error">Error creating!</string>
+    <string name="class_dialogs_cutout">CUT OUT</string>
+
+    <!-- FRAGMENT FAVS -->
+    <string name="frag_favs_title">Quick access</string>
+
+    <!-- FRAGMENT HOME -->
+    <string name="frag_home_generalinfo">General information</string>
+    <string name="frag_home_way">Path</string>
+    <string name="frag_home_open">OPEN</string>
+    <string name="frag_home_internal">Internal</string>
+    <string name="frag_home_external">External</string>
+    <string name="frag_home_infoways_title_internal">INTERNAL STORAGE</string>
+    <string name="frag_home_infoways_title_external">EXTERNAL STORAGE</string>
+    <string name="frag_home_infoways_message_internal">Select your INTERNAL storage so that the application can access the files and folders contained therein!</string>
+    <string name="frag_home_infoways_message_external">Select your EXTERNAL storage so that the application can access the files and folders it contains!</string>
+    <string name="frag_home_infoways_message_newinternal">Select a new INTERNAL storage!</string>
+    <string name="frag_home_infoways_message_newexternal">Select a new EXTERNAL storage!</string>
+    <string name="frag_home_infoways_errormessage_internal">You need to select INTERNAL storage of the device!</string>
+    <string name="frag_home_infoways_errormessage_external">You need to select EXTERNAL storage(SDCARD) of the device!</string>
+    <string name="frag_home_ram_usage">RAM Usage</string>
+    <string name="frag_home_internal_usage">Internal storage</string>
+    <string name="frag_home_external_usage">External storage</string>
+    <string name="frag_home_noways">No path.</string>
+
+    <!-- DIALOG CREATE FILE FOLDER -->
+    <string name="diag_cff_title">New File/Folder</string>
+    <string name="diag_cff_file">File</string>
+    <string name="diag_cff_folder">Folder</string>
+
+    <!-- DIALOG CREATE ZIP FILE -->
+    <string name="diag_czf_title">New zip file</string>
+
+    <!-- DIALOG PROGRESS -->
+    <string name="diag_p_title">Progress</string>
+    <string name="diag_p_information">Informations</string>
+    <string name="diag_p_totalfiles">Total Files:</string>
+    <string name="diag_p_success_removed">Successfully removed:</string>
+    <string name="diag_p_error_removed">Errors when removing:</string>
+    <string name="diag_p_success_copy">Successfully copied:</string>
+    <string name="diag_p_error_copy">Errors when copying:</string>
+    <string name="diag_p_success_moved">Successfully Moved:</string>
+    <string name="diag_p_error_moved">Errors when moving:</string>
+    <string name="diag_p_success_compress">Successfully compressed:</string>
+    <string name="diag_p_error_compress">Errors when compressing:</string>
+    <string name="diag_p_outof">out of</string>
+    
+    <!-- DIALOG RENAME -->
+    <string name="diag_rename_title">Rename</string>
+    <string name="diag_rename_button">RENAME</string>
+
+    <!-- MENU TOOLBAR -->
+    <string name="menu_toolbar_ex_new">New</string>
+    <string name="menu_toolbar_ex_compact">Compress</string>
+
+</resources>
